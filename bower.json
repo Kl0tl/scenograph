@@ -1,0 +1,13 @@
+{
+  "name": "scenograph",
+  "main": "scenograph.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Kl0tl/scenograph",
+  "authors": [
+    "Cyril Sobierajewicz <sobierajewicz.cyril@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT"
+}
