@@ -1,6 +1,6 @@
 {
   "name": "scenograph",
-  "main": "scenograph.js",
+  "main": "src/scenograph.js",
   "version": "0.1.0",
   "homepage": "https://github.com/Kl0tl/scenograph",
   "authors": [
